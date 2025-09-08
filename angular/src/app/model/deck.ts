@@ -11,6 +11,19 @@ export interface Deck {
 
 export const decks: Deck[] = [
   {
+    name: 'TIS_MODIFIED_FIBONACCI',
+    textValues: false,
+    values: [
+      { value: 0, display: 0 },
+      { value: 1, display: 1 },
+      { value: 3, display: 3 },
+      { value: 8, display: 8 },
+      { value: 13, display: 13 },
+      { value: 20, display: 20 },
+      { value: 40, display: 40 },
+    ]
+  },
+  {
     name: 'FIBONACCI',
     textValues: false,
     values: [

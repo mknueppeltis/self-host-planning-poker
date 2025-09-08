@@ -14,6 +14,8 @@ A hassle-free Planning Poker application to deploy on your NAS.
 
 ## What is it?
 
+THIS IS A MODIFIED FORK OF https://github.com/axeleroy/self-host-planning-poker
+
 This application is intended as a simplified and self-hostable alternative to
 [Planning Poker Online](https://planningpokeronline.com/).
 
