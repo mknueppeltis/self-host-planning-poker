@@ -34,6 +34,7 @@ export const decks: Deck[] = [
       { value: 0, display: 0 },
       { value: 1, display: 1 },
       { value: 3, display: 3 },
+      { value: 5, display: 5 },
       { value: 8, display: 8 },
       { value: 13, display: 13 },
       { value: 20, display: 20 },
