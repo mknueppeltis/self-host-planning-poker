@@ -32,6 +32,7 @@
     "updateButton-label": "{{buttons.update}}"
   },
   "deckNames": {
+    "TIS_MODIFIED_FIBONACCI": "TIS Fibonacci",
     "FIBONACCI": "Fibonacci",
     "MODIFIED_FIBONACCI": "Modifiziertes Fibonacci",
     "POWERS": "Zweierpotenz",
